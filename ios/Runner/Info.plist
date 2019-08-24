@@ -22,6 +22,10 @@
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>StandardErrorPath</key>
+	<string>/var/log/test-err.log</string>
+	<key>StandardOutPath</key>
+	<string>/var/log/test-out.log</string>
 	<key>NSCameraUsageDescription</key>
 	<string>Used to demonstrate image picker plugin</string>
 	<key>NSMicrophoneUsageDescription</key>
